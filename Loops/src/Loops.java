@@ -13,6 +13,7 @@ public class Loops {
         System.out.println(3 + " squared = " + (3 * 3));
         System.out.println(4 + " squared = " + (4 * 4));
         System.out.println(5 + " squared = " + (5 * 5));
+        System.out.println(6 + " squared = " + (6 *6 ));
         //This can be done with loops
         writeSquares2();
     }
